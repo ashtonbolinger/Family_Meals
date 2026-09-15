@@ -10,3 +10,5 @@ section{padding:42px 0;border-bottom:1px solid var(--line)}.schedule{display:gri
 .groceries{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px}.group{background:var(--card);padding:18px;border-radius:14px}.group h3{font-size:1rem}.item{display:flex;gap:10px;padding:7px 0;align-items:flex-start}.item input{margin-top:5px}.item.checked label{text-decoration:line-through;color:#929892}
 button{border:0;border-radius:10px;padding:11px 14px;background:var(--ink);color:white;font-weight:700;margin-top:18px}footer{padding:28px 0;color:var(--muted);font-size:.85rem}
 @media(max-width:520px){header{padding-top:40px}section{padding:32px 0}.schedule article{grid-template-columns:48px 1fr}}
+
+.recipe-link{display:inline-block;margin-top:8px;color:var(--accent);font-weight:800;text-decoration:none}.recipe-link:hover{text-decoration:underline}
