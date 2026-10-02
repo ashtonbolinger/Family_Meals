@@ -51,6 +51,34 @@ PDF marked `Trial`, and save it in the connected `AI Cookbook` folder without
 altering the original source. Use existing standardized PDFs for the other
 selected dinners when available.
 
+Treat the standardized recipe as a complete, practical cooking guide rather
+than a shortened summary. Before drafting it, review the entire source recipe,
+including notes, sidebars, captions, footnotes, callouts, and text after the
+main directions. Faithfully preserve, in clear paraphrase, every materially
+useful source detail, including:
+
+- ingredient preparation details and equipment requirements
+- timing, temperature, pressure, release, resting, and doneness cues
+- browning, deglazing, thickening, texture, and flavor-development techniques
+- substitutions, optional ingredients, variations, scaling, and dietary swaps
+- make-ahead, storage, freezing, thawing, and reheating guidance
+- troubleshooting, common mistakes, serving suggestions, and alternate uses
+
+When the source provides this information, give it clearly labeled sections
+such as `Tips for Success`, `Variations and Substitutions`, `Storage and
+Reheating`, and `Troubleshooting`; do not bury it or silently omit it to shorten
+the PDF. Do not invent unsupported source claims. Any independently added
+improvement must be verified, useful, and labeled as an `AI Cookbook Note` so
+it is distinguishable from source-derived guidance.
+
+Before accepting a new or revised cookbook PDF, perform a source-to-cookbook
+completeness check. Make a temporary checklist of every actionable source tip,
+suggestion, alternate, and caution; confirm each item is represented in the
+finished recipe or record a specific reason it was excluded. Then render and
+visually inspect the PDF for clipped text, missing sections, unreadable pages,
+and instruction continuity. The checklist is working material only and must
+not be saved in OneDrive or published.
+
 Do not put child-specific guidance in formal recipe PDFs. Child serving or
 modification guidance, plus an alternate when needed, belongs only in the
 private run report.
