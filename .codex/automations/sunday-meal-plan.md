@@ -63,12 +63,15 @@ Update the checked-out repository files for the new week's dates and content:
   and a unique `data-meal` selector for every primary and alternate dinner
 - `script.js`: the selectable-meal catalog and recipe-adjusted ingredients used
   to generate the grocery list dynamically
-- `recipes/`: public copies of every newly selected recipe PDF not already present
+- `recipes/`: public copies of the PDFs for this week's primary and alternate
+  dinners only; remove PDFs from prior weeks that are not selected this week
 
 Preserve the existing design and selection-driven grocery behavior: no meal is
 assumed selected on a new device, users can independently select any primary or
 alternate meal, and choices and checked items persist locally. Do not replace
-this with a pre-filled static grocery list. Use relative recipe URLs and
+this with a pre-filled static grocery list. The visible Recipe Library and the
+public `recipes/` directory must contain only the current week's primary and
+alternate recipes. Use relative recipe URLs and
 verify every linked file exists. Never publish private family information,
 child-specific information, private OneDrive links, addresses, account data,
 credentials, or other sensitive material.
