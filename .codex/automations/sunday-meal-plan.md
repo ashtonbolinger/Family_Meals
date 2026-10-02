@@ -59,12 +59,16 @@ private run report.
 
 Update the checked-out repository files for the new week's dates and content:
 
-- `index.html`: meal schedule, alternates, costs, nutrition notes, and recipe links
-- `script.js`: consolidated grocery list with recipe-adjusted quantities
+- `index.html`: meal schedule, alternates, costs, nutrition notes, recipe links,
+  and a unique `data-meal` selector for every primary and alternate dinner
+- `script.js`: the selectable-meal catalog and recipe-adjusted ingredients used
+  to generate the grocery list dynamically
 - `recipes/`: public copies of every newly selected recipe PDF not already present
 
-Preserve the existing design and grocery-checklist behavior unless a content
-change requires a small compatible adjustment. Use relative recipe URLs and
+Preserve the existing design and selection-driven grocery behavior: no meal is
+assumed selected on a new device, users can independently select any primary or
+alternate meal, and choices and checked items persist locally. Do not replace
+this with a pre-filled static grocery list. Use relative recipe URLs and
 verify every linked file exists. Never publish private family information,
 child-specific information, private OneDrive links, addresses, account data,
 credentials, or other sensitive material.
