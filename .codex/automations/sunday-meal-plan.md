@@ -31,6 +31,14 @@ whole in this order:
 4. Seasonal fit
 5. Prep time and simplicity
 
+Designate exactly one alternate dinner each week as the `Mix-Up Meal`. It must
+be a genuinely new recipe the family has not previously tried, not merely a
+renamed version or minor variation of a prior meal. Check the current AI
+Cookbook, candidate backlog, recent website history, and available prior meal
+plans before treating a recipe as new. If the available records do not establish
+that it is new, label that status uncertain and select another recipe unless the
+user approves it.
+
 Favor ingredient overlap, foods already on hand, and known favorites while
 adding worthwhile variety. Draw steadily from backlog ideas such as feta bake,
 kabobs, Costco convenience meals with healthy sides, loaded nachos, chicken and
@@ -50,6 +58,27 @@ standardized AI Cookbook PDF. Vet it before use, create a polished standardized
 PDF marked `Trial`, and save it in the connected `AI Cookbook` folder without
 altering the original source. Use existing standardized PDFs for the other
 selected dinners when available.
+
+The weekly `Mix-Up Meal` is the preferred new `Trial` recipe. Before creating
+its PDF, require a credible, identifiable source and complete a pre-PDF recipe
+integrity review. Confirm that:
+
+- the source has an identifiable author, publisher, cookbook, manufacturer, or
+  established recipe site with enough context to assess it
+- the ingredient list includes usable quantities and preparation details
+- every ingredient is accounted for in the directions, and the directions do
+  not call for missing ingredients
+- yield, equipment, sequence, cooking times, temperatures, and doneness cues
+  are internally consistent and practically plausible
+- meat temperatures, pressure-cooking practices, cooling, storage, and other
+  food-safety points agree with authoritative guidance where relevant
+- reader feedback or a second credible reference supports any unusual ratio,
+  technique, or timing that could materially affect success
+
+Do not create the PDF if the source is incomplete, contradictory, implausible,
+or cannot be credibly verified. Reject that candidate, record the reason in the
+private run report, and select a different Mix-Up Meal. The PDF is the output of
+the review, never the mechanism for discovering whether the recipe works.
 
 Treat the standardized recipe as a complete, practical cooking guide rather
 than a shortened summary. Before drafting it, review the entire source recipe,
