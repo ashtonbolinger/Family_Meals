@@ -1,394 +1,133 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 2
-/Kids [ 4 0 R 10 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 612 792 ]
-/Resources <<
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 14 0 R /MediaBox [ 0 0 612 792 ] /Parent 13 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 5728
+/A <<
+/S /URI /Type /Action /URI (https://blackstoneproducts.com/blogs/recipes/basics-of-fried-rice-1)
+>> /Border [ 0 0 0 ] /Rect [ 50.1844 195.84 192.987 204.6 ] /Subtype /Link /Type /Annot
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-.85098 .882353 .898039 RG
-n 46.8 37.44 m 565.2 37.44 l S
-.360784 .407843 .439216 rg
-BT /F1 7.5 Tf 9 TL ET
-BT 1 0 0 1 46.8 24.48 Tm (AI Cookbook | Family-tested format) Tj T* ET
-BT 1 0 0 1 541.4325 24.48 Tm (Page 1) Tj T* ET
-Q
-q
-1 0 0 1 44.64 653.4 cm
-q
-.090196 .196078 .301961 rg
-n 0 93 522.72 -93 re f*
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 50 cm
-q
-1 1 1 rg
-BT 1 0 0 1 0 4 Tm /F2 25 Tf 29 TL 47.035 0 Td (BLACKSTONE CHICKEN STIR-FRY) Tj T* -47.035 0 Td ET
-Q
-Q
-q
-1 0 0 1 6 32 cm
-q
-1 1 1 rg
-BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL 132.2212 0 Td (with zucchini vegetables and vegetable-egg fried rice) Tj T* -132.2212 0 Td ET
-Q
-Q
-q
-1 0 0 1 6 13 cm
-q
-1 1 1 rg
-BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL 83.49075 0 Td (A complete one-griddle dinner with three components cooked side by side) Tj T* -83.49075 0 Td ET
-Q
-Q
-q
-1 J
-1 j
-.090196 .196078 .301961 RG
-n 0 93 m 522.72 93 l S
-n 0 0 m 522.72 0 l S
-n 0 0 m 0 93 l S
-n 522.72 0 m 522.72 93 l S
-Q
-Q
-Q
-q
-1 0 0 1 50.64 643.4 cm
-Q
-q
-1 0 0 1 44.64 607.4 cm
-q
-.917647 .952941 .94902 rg
-n 0 36 522.72 -36 re f*
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 5 cm
-q
-BT 1 0 0 1 0 14.9 Tm 12 TL /F2 9.1 Tf .141176 .192157 .227451 rg (Serves) Tj /F1 9.1 Tf  T* (6) Tj T* ET
-Q
-Q
-q
-1 0 0 1 136.68 5 cm
-q
-BT 1 0 0 1 0 14.9 Tm 12 TL /F2 9.1 Tf .141176 .192157 .227451 rg (Prep) Tj /F1 9.1 Tf  T* (25 min + rice chilling) Tj T* ET
-Q
-Q
-q
-1 0 0 1 267.36 5 cm
-q
-BT 1 0 0 1 0 14.9 Tm 12 TL /F2 9.1 Tf .141176 .192157 .227451 rg (Griddle) Tj /F1 9.1 Tf  T* (375-400 F) Tj T* ET
-Q
-Q
-q
-1 0 0 1 398.04 5 cm
-q
-BT 1 0 0 1 0 14.9 Tm 12 TL /F2 9.1 Tf .141176 .192157 .227451 rg (Cook) Tj /F1 9.1 Tf  T* (20-25 min) Tj T* ET
-Q
-Q
-q
-1 J
-1 j
-.098039 .447059 .470588 RG
-.6 w
-n 0 36 m 522.72 36 l S
-n 0 0 m 522.72 0 l S
-n 0 0 m 0 36 l S
-n 522.72 0 m 522.72 36 l S
-.717647 .823529 .815686 RG
-.3 w
-n 130.68 0 m 130.68 36 l S
-n 261.36 0 m 261.36 36 l S
-n 392.04 0 m 392.04 36 l S
-Q
-Q
-Q
-q
-1 0 0 1 50.64 600.4 cm
-Q
-q
-1 0 0 1 50.64 574.4 cm
-q
-.090196 .196078 .301961 rg
-BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Why this version works) Tj T* ET
-Q
-Q
-q
-1 0 0 1 50.64 532.4 cm
-q
-.141176 .192157 .227451 rg
-BT 1 0 0 1 0 26.9 Tm /F1 9.1 Tf 12 TL (Cold rice browns instead of steaming, while separate griddle zones keep the zucchini crisp-tender and the chicken juicy. The) Tj T* (egg and small vegetables are folded into the rice; the larger zucchini mixture stays separate so everyone can build a plate the) Tj T* (way they like.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 50.64 506.4 cm
-q
-.090196 .196078 .301961 rg
-BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (Ingredients) Tj T* ET
-Q
-Q
-q
-1 0 0 1 50.64 252.4 cm
-q
-.980392 .968627 .941176 rg
-n 0 248 514.72 -248 re f*
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 8 229 cm
-q
-.098039 .447059 .470588 rg
-BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Chicken) Tj T* ET
-Q
-Q
-q
-1 0 0 1 265.36 229 cm
-q
-.098039 .447059 .470588 rg
-BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Zucchini vegetables) Tj T* ET
-Q
-Q
-q
-1 0 0 1 8 159 cm
-q
-BT 1 0 0 1 0 50.9 Tm 12 TL /F1 9.1 Tf .141176 .192157 .227451 rg (- 1 1/2 lb boneless skinless chicken breasts or thighs, cut) Tj T* (into 1/2-inch pieces) Tj  T* (- 3 Tbsp teriyaki sauce or Japanese barbecue sauce) Tj  T* (- 1 Tbsp neutral high-heat oil) Tj  T* (- 1/2 tsp kosher salt and 1/4 tsp black pepper) Tj T* ET
-Q
-Q
-q
-1 0 0 1 265.36 123 cm
-q
-BT 1 0 0 1 0 86.9 Tm 12 TL /F1 9.1 Tf .141176 .192157 .227451 rg (- 2 medium zucchini, halved lengthwise and sliced 1/2-inch) Tj T* (thick) Tj  T* (- 1 red bell pepper, 1-inch pieces) Tj  T* (- 1 medium yellow onion, 1-inch pieces) Tj  T* (- 8 oz mushrooms, halved or thickly sliced \(optional\)) Tj  T* (- 1 Tbsp neutral oil) Tj  T* (- 1 Tbsp garlic butter) Tj  T* (- Salt and pepper to taste) Tj T* ET
-Q
-Q
-q
-1 0 0 1 8 99 cm
-q
-.098039 .447059 .470588 rg
-BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Vegetable-egg fried rice) Tj T* ET
-Q
-Q
-q
-1 0 0 1 265.36 99 cm
-q
-.098039 .447059 .470588 rg
-BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Finishing sauce and garnish) Tj T* ET
-Q
-Q
-q
-1 0 0 1 8 5 cm
-q
-BT 1 0 0 1 0 74.9 Tm 12 TL /F1 9.1 Tf .141176 .192157 .227451 rg (- 2 cups uncooked long-grain or jasmine rice, cooked and) Tj T* (chilled \(about 6 cups\)) Tj  T* (- 1 1/2 cups frozen peas and carrots) Tj  T* (- 4 large eggs, beaten) Tj  T* (- 3 green onions, sliced; keep white and green parts) Tj T* (separate) Tj  T* (- 3 Tbsp garlic butter, divided) Tj T* ET
-Q
-Q
-q
-1 0 0 1 265.36 41 cm
-q
-BT 1 0 0 1 0 38.9 Tm 12 TL /F1 9.1 Tf .141176 .192157 .227451 rg (- 4 Tbsp low-sodium soy sauce) Tj  T* (- 1 Tbsp oyster sauce \(optional, for extra savory flavor\)) Tj  T* (- 1 Tbsp toasted sesame oil) Tj  T* (- Sliced green onion tops and sesame seeds, optional) Tj T* ET
-Q
-Q
-q
-1 J
-1 j
-.882353 .85098 .788235 RG
-.5 w
-n 0 248 m 514.72 248 l S
-n 0 0 m 514.72 0 l S
-n 0 0 m 0 248 l S
-n 514.72 0 m 514.72 248 l S
-.35 w
-n 0 224 m 514.72 224 l S
-n 0 118 m 514.72 118 l S
-n 0 94 m 514.72 94 l S
-n 257.36 0 m 257.36 248 l S
-Q
-Q
-Q
-q
-1 0 0 1 50.64 246.4 cm
-Q
-q
-1 0 0 1 50.64 227.4 cm
-q
-.098039 .447059 .470588 rg
-BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Garlic butter) Tj T* ET
-Q
-Q
-q
-1 0 0 1 50.64 197.4 cm
-q
-.141176 .192157 .227451 rg
-BT 1 0 0 1 0 14.9 Tm /F1 9.1 Tf 12 TL (Mix 6 Tbsp softened unsalted butter with 2 minced garlic cloves and 1 tsp soy sauce. The recipe uses 4 Tbsp; keep the extra) Tj T* (ready in case the rice or vegetables need it.) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 612 792 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.705882 0.32549 0.035294 rg
-n
-540 754 m
-582 754 l
-585.3168 754 588 756.6832 588 760 c
-588 766 l
-588 769.3168 585.3168 772 582 772 c
-540 772 l
-536.6832 772 534 769.3168 534 766 c
-534 760 l
-534 756.6832 536.6832 754 540 754 c
-h
-f*
-1 1 1 rg
-BT
-/F2-0 9 Tf
-10.8 TL
-ET
-BT
-1 0 0 1 547.752 760 Tm
-(TRIAL) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/A <<
+/S /URI /Type /Action /URI (https://theflattopking.com/blackstone-fried-rice/)
+>> /Border [ 0 0 0 ] /Rect [ 50.1844 180.64 238.4368 189.4 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/A <<
+/S /URI /Type /Action /URI (https://forktospoon.com/the-only-blackstone-fried-rice-recipe-youll-ever-need/)
+>> /Border [ 0 0 0 ] /Rect [ 50.1844 165.44 178.387 174.2 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/A <<
+/S /URI /Type /Action /URI (https://grillonadime.com/blackstone-fried-rice-recipe/)
+>> /Border [ 0 0 0 ] /Rect [ 50.1844 150.24 180.8033 159 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/A <<
+/S /URI /Type /Action /URI (https://thewoodenskillet.com/blackstone-fried-rice/)
+>> /Border [ 0 0 0 ] /Rect [ 50.1844 135.04 195.8267 143.8 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
-/Contents 11 0 R
-/MediaBox [ 0 0 612 792 ]
-/Resources <<
-/Font 12 0 R
-/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Parent 2 0 R
+/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R ] /Contents 15 0 R /MediaBox [ 0 0 612 792 ] /Parent 13 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
 >>
 endobj
 11 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ]
-/Length 3277
+/PageMode /UseNone /Pages 13 0 R /Type /Catalog
 >>
-stream
-GauHM?$"c/&q0MXfV^gF*K_Zt;BPR1P)7YpBq<uCbC,"6846,a$ijI4RJuun$\4K.kbINYmW`PO'F68`m-ZkA`Xq*)D#`WT^tT%Jgr0gPYZO2]L++Z;_>D4%f;ikV7IqCMZWT'/`d"'#U@B3E5$Tt,:;Rm-VdZ#\%G<!7'E>%`a/a/AM5ITn_NZ\JA3-;0nH@A<b-*]41Kn\af>>/)2p4sdTG]Ofe8YBK,J962Bo0Uo-ett1<853-D0Q(3WG6&E%>umDpu0a[=W6>#8[^S.B=?ralj`t8pGe+m_FY*`A;:!-CYF.mO5fs<6MuJJJ8e1(A&!eDE8m8I^:?lZ[QB@Z[&**7MRUAnc3aiMOO-N#qFS%I<r[XIakX(<h3="NE69T!GsA!"('8UM1s5$>QeC_j;1UM-[i?LCm:>p"[BD6mKL%;ia!i8t3BP*F/.(>nNi1GU8XrKu9Tj+YO\ao(:]f2^OI)]A^m#h'aE_GN+NXL$fAK-\\Q"8remP9ogp6j7!%NZ]\Il-p+[!2j4=CVo"rIif9?">EJY^VW=I5o=JeSqhK.]/C3))3o2]Y<MYF#B1Z%;4GapM;ulP?*15q\e?)Hht5?R`8BMAZoJ5fK-LLheG$V*X*M33o6c6F=EU7Sp%ch&NN81Y8:FbO!,^`C-KK=:A!4>HZ=D/QZU#=r?sF7:a]K!17"L!02cF%tMb*"+W_0.1R?2[7)1='e]].$nOCc.L/WOA+;1n;5,J=6c!d"TN`#.-Q8uo;aui7,;j*Ke<9b.[1i@7[12*$<"peTHd0-ll[HItK^5p"L9"N8!)]RII(e+?OE^++#&=.U)]Jk)I*E+)<a:FC;KR:hKZ9o%)IF&L7gs5&/\h#^!%aqsYS!`8oUXX?-fJ;l_FnHF_R-sm\I.;(06+uDe=u331kSn]&N/]K<QP\2*$_1D(\QYr(mVaKchfe!/lRqj<`ie;Oc>8PXNRJ?SAR:uUX'd>c'&*:>om%Y:g-cZ=km\kBCbMh5$.I5Kb\nrc%7d0i!tZ#<a!#776t'ZLoq4[XH#]hI9a=Ibq]++)W5dKmBBm-\U\uh+3'9\B8\;MTZdl(?<"s$f)^.LS?hLe8=hH<_eM]',_eqN)9oSb#BY;RP<F7rEYU^7`,)NQ*JK[JOQrES7+BR@7Ws'67%+8=+dEZ9V37;pKY'j`No(l)970@FTX=$u#=J8d524.eoK\,rnH.Bl;^-#eB*r@b5[/,7,oWIM>2FmIm"Vn3NQ+]R-,buUKC9ei#inFi9r<E62@lk%!]QPF;u'sLX;;PR.Hq#ED[K)Ti]_simW>G(X>P<&BliSo8p4Uhn0LS-jsmhj#$m7odg.MkQ5>9<os2_OVBIu;#MBY#%O`81geo]/1^Um$$/M=2D[KqX=qFD6l5%qV[`CTL6d_l>"<d8'l#to,?3Von`.k8FVY+f0Tkj1*N++FXGP^lT8>NR"KnReHoOLK$X'LC]8c9&:4WP(-N>G0p`0/;5pn9GJ5mX"aD\70B_+Z:lHl]Xj081Q0Nlm7o/D_:!5tT*9(O+TaB==$A!(3F4ZJScLk).<EgT!I(JIFVu=E[icZI=V@(I[U"L$sl<kLX3o?jc=:FcJ&.o@Bt>B=(aGYpEioeT*ub&d@k4ZT+:GTj=K9+Oe&mZHo]#^2]8&i*,-?<bZb0jAf9j:APR$Gq%KkVq7oQ3K%-_=l^p-O\7<_*7_+(6TB`=HU8_S)_.PUfu:;`*Xe4QGRoLlDQuYCl.N]d42GH9h\EfA!RP;^l),T,,@a1K\8fWdnK0]03hYjr:?RMbUk.)F\Yq<qUEJh\j>B$J!WEc-K`?C1F?I;h[*t5c%]`m>l`otu[DjAhA;#!i/%;\;EO)sJgd00F<YKbhDiDV$>^@/;Pkaq]*D^;NK/Z;d2CWpMocZF5S_=[W>hQE?fW0`W._S%B1tN05-7PrXns.]:f@WCL/.Beeqe:G6<hOASAtR%^E`jApVfA53'M%i??&DJ5AdR`&Pb0H=:Y;$)_IG=m,X''<b%Hc5?2(VZg1ps9R'NaAp;)*WLPW;jcPScTRe,N,I8!R[7m+ug>1mD7DWlpk"Bgn@dfb(^_%HjN+0NI@\gBkDbd1iO`ct5@;)17sVSaYN^O%<5#40W@YmVqpPMqJ0[r@@`7YeouBRu2aEB$agN0HLU]<oU1Nnm!=Cju_f`Q-;c,C&fonc%LV2iIEkn1Rm+h#Hp<e,.1XmdCr6J,:o>cb5k@4/^>3E[Z*MO"Z)4r[YeuJ<,p<e?7\,O$OBKj7bk31XjF-S.>RHVZY#KlbN(a/!t:R\1U9HUKTFgJo'fLT90a43ArJ#;_)Id=(p&3Pd+[$>M5-H2pc9un^3AsLXT#Aq7Et4GQ):o"@M\u)FLTu7)A<8`J'nSk.k$T4A17!.bF"R&GucVr<qd?BOiE(r$Z8Kej]iiZ<E:*U[cL45L="5Cd[6kKi4<:dfl(W)H2AIA]8"qRl_S9^3Nh#?;^/hn+M=7E?%cOR;IooD<dZV"@/Z$(rQTK8g*pY=$F`?C[m?@o@E1JD;9?B042p^;E];g?eJpU=2%t$Kb^2>FC"-#O3gN*GG;s/P2Q1E/W"DQF38^olS4JBCK=<)m(IUN6WUVhB-4S2Z^-lpp#p^KU<O'!$#C!ZJ'MNl]$Pk\h4#^O8o=n;b<7IYGPr>]><:I'PiKWN@4VsrS70XD:[dC.do]5S-),09X$7,2k7:8f/\dEs62h<aSaIGU4_B^`Ql=J/[D#q_^u'/n<s8K0@n>bO==R1W,AYtr*RGFX3SP.Kib_,0k^@Z5h"cXZd/(g(<SEW^-!%sZ.rNZ[)QqEIe]4PKoR=TuKHiR#B@Ffa$9MaqkprX^SDFKN,joW+NC:r=q?RcTZ=G:8akQd+&TSK<C5TVj/Ft[sIQ:"M%j.sk.;T3#WI(A4&+mT=Z.4!,rUOR-2f'?#h%[UGPT0.7mMPE.=5!@(kIM0d(G0Yde)K.;DB,E&nS=_D7CgHgZ!3H!=jH@a9:UR!I8dA9?:)4JYsr5r(<jOY[%Qg$\\p2*mEI2TG8al\A+,)YY@VoY[QG+je>P*56'>bsg]pn"ON-<ec0VK'OUDl(#NiGjeomrR0,sGh,;G&;0SLrAFfcb\T3`G`'*17i]=+i_WdWtC\E^D@Y@Ht#RGkh"AgI(*qsRuJP]?6qmW0V>Qil@\P#jD!VcDbjr:dFQ_q>X+]L>'%(KiZ@G,`'-RkU3%%2P4Gi9N^;<F\9O16>5GK&tq4^fTV:p_.gp>:$QK6Q&KP/M"B_2p+Ub^?MQ^/).,<_U\Yd#Z@I"~>
-endstream
 endobj
 12 0 obj
 <<
-/F1 6 0 R
-/F2 8 0 R
+/Author (Weekly Meal Planner) /CreationDate (D:20261007210518+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261007210518+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (Recipe) /Title (Blackstone Chicken Stir-Fry with Fried Rice) /Trapped /False
 >>
 endobj
+13 0 obj
+<<
+/Count 2 /Kids [ 4 0 R 10 0 R ] /Type /Pages
+>>
+endobj
+14 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2172
+>>
+stream
+Gatm<>>s9;&:WeDlm(m@XsIF2]Tpo?HeO$;VO]`bMrH.i)TPH]4.J"fa.HZ5'%7!#,qpT6P-pp*^\r=m"tom1qjAu8hN-UN7g=piBF;t-Hl.9co?ktSULkjIM7=LKHoHq2%idfQLG=8Ja:B,T)6IPrk2+GkJ\)C"@C1RFT2Nt@211T3K?HsL\MWdt>i_<qje0tc8`V!cAMTSc\4B4T`qeg$2rNX6)#]'6>I*&=56tMLZ`%Nr;TpDjhWjQSJp+[H+In8.pmE[PggQ]Vi=PKj5B9-hp)/e*57ZY(7pEb*aFRRan:5o%R-0,i&#Vo23.@KVA6tK]QZ/6?4@'J/V)![aB&/%Vgq1HjgBQgN4)du8E/+lIkM""&K^JP8PptKg8Wp)Y_+N!`.E7c,5i`Rq=(Ni*H8@[FZPcGr6FRo!aEue06O]C#+Uk+UiXh6_4ubojIdl)$ig:D!S=o]9a)mmR#009%^--N(:A#KNTQs&9c4p)c2W?T`qggtR3B1=^LHO:2"D`Wh':!b5RH(krd"LWZr9D>uFVg$aP?UOgS>^lB$lIQ7fODA'3ksGmkYH%=i5k<\&-srrrRUtGX3VkOHp-p@o]ER^G`h1YK=J^@U;m2c`Pp`(o696L9EW$fgF#\@L_I/&O6L\"M=_Mam_iFIX4*"nJ,"Rc^W7B&SKR?JMmBQ`3W*H0#Vbj*e@!sVqtl9nM"Za'GWs-!o+m&s"ZMs,^?aYFd/CH\ot=oI7/LNq!lk\cW:PX7p1nS_XP[72Zi1..IN:FgLd)J20a_oNMB'OaV^"$=gFC=>d1X+9i7a4&h4T+5bhXgbVg$q@ibfG`lVYY^Ee0P.=5@nW>`J,=IFV&:W.s)&e5so5pKcc"g<XDC'5t46F<1<s/'mb3F:Df]$<1tC.%S8X2Y5oofrg=@::;7#Y.#EXB$Hn2X=ao82Yo<b5ikE``<>fIkQ9d,F5!pDZE*>^fXeDg0T]s2a,`?^N0/CB9`\j$R2RLtQ(ipn/>RNW/RniS[?/l_ZmRsg;d:Q16s"Y:^f28c="4:c24[@ncl,/Op=@*3pU9-c'STl2mn2Z;.MW`;>?h\Udii=Tc3@4TP-D%-R4;)SmM0qmL4ML?Obm9$k)]C&(`k*hTC\J5'8;4r'BpW_TA/:GRE]/b5P0(ppD==Pa/R$"@b)!H,*Ll.*3q;XdD8?hN-g,\UFT5>gImNc'Es6F7U"&7>a&,5P,?`NpH[h3$;2ZY\^*9bp_p4NOE%N.jH<])\KX.C`)7^\0fan)bG::tM!C*LWeS?FYB-+cOisa]fLqDu"u^D,b"f'#9:VShA?S9Y=\47[*?5`Z@4@O9C%bqF_81BgcaG/_DVQ>RYAk,/"m/Fbkem`eQ!r*92Jah!>3HdH@r.!5Q8MDt!VUUrq([5%*#k8\['+C6kG[Nm!'%qE9&IIZ.T3&7!h#[<Ck\6pNqK]roch"nZNk(*+-:=sa6Kpt0^.*MM;m#_c&1jdpk@$O#NOEsk<@&<#eX4F(O!gKZ@FF&@Y4l7M#p>D,Z2X)4r_]S<YGl$"I^Xt)qu7apkc7F&I[taHXk-'-![k!>.de/mncoKW2MQp@>lh$B@sd$K9+@B6=eadogIr?.!\p=E4t@FdH8j:@(ftrDn@^S^j8Q+'/a1bjqQlgqUj]A[M,b9.lD%6oJScph;09U2o$CP'\[.=[/j=,:LKSj(e%DH9r43-/Mo?hphu!XB+Kd1QldH[oXZHQ<*MV)??^*aC''"#M_)e5;?lOi'gDL8a+LAaWUKIBApsEM4f3AA2t\g\OXfu;fnW)#EY9,?^9snD6;GiBUui+2P"`'JQQ+.L\LtH'N)GK^Mn2o^pE6]pT>FjUAa<X,&h5-r!&^TBZ>275Rto\PH[h2O[&V839qTJc__ce.#%7iim<]J+&)Ec_f/gRh351r'bh5T232?2[djjpFPq`NHQ\HFY7a8#aY`@ku^Z/7KJ.*A/C?CYO`7@o1'!OI'nqZngkf"14l/*4%0Ng(BeTrPOM@EqqP>Rs-RZm$Z:qP>uK'p]oq`V+FOnTRSg#34N_\(sZJQa0toYO:E/NAWB2O(#g2jS1VGAFU4g::B\XY6`$V!Vl1XN.EIS<E/6)eU6tE95<BaX!)I:)np?4L)BU`$=)R]5=irc#0:OP`I3*.dt/Q08@\7rHg/.BN8q7*l68(XF-fT~>endstream
+endobj
+15 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2899
+>>
+stream
+GauHMfll+>&q/A5e>"?8,1m3^T=dR`,ict&36*\$B`]k!(4aDt6.,=mO3arJWeDQ?4-kmtW#M\<Wa![6L-mkJ*V1037'DpKj/#,'9?S8pI*8GLJ*<flg&K@OR5n&2rOCtDo>p[IncO4NiQIehJO@tVmrqsohSKWA[4Nc%APVD1UqFtGoM1:&hIiQ2A4?NrX!11E3R__I`Gu`4A:,m@\r(:2_Yj<5!o38e[/<>8+*cn0r#i3qf9q\cGV@X2gsOrm_h.<"5Cbe92o93tA))*0-O:NAL]+b(inJ[IH2,/\RlhJbj/#DOnW"Qm%i0`X"X.KE$(W_.Q'AU.WfZj&'Ci3-q6Eb:agQ?Wbf7sGh&^8H0#Cr,;`p#RYgEs5f`jO![6+DlQ5!t0'GmQV.4S1fg=ERVBr:,a<E+eq`L@Re/hC0m;ba!L,g*DjT@4eS^S"cmV8T-5SgY4D?r\AXVF8F<,&+NK"\B;E3Xa8DQ'Zks9t@if89Ju@)_#Of*[G7%6cX5h_e3WU!nQ'h=UU:?n8/D-jKdSFA)Y_TO#X:SN_e$fk(bbILh[ncEeN2&E5*06::H26MY@4&@Cp&q@2)'%,PQB62t:gJ[qm])3okd>pX=Z]B]bGNJSR^3A:;e5K#mBpGkl[]o@7cm$MPkhl/76g2c@N_+tN5rq#BjPQV1Lgd@71COaB#L7\/>RU/>BYhQWek"^PA'HjMnU'A3#nD#7To)'>J#fmP"=I3gmQ9r)h[+'bZ4U)QO"b;e?%$a+&8>TP`":bIrRS'O"WH=PC/:!!dC2b7=%&o-@BHg]rueman9IDO)"aiBGjHrOV'k)#QW789o4=B]g3ArZ:l-"CgGd29#6ZBa4Uo69./g8?t'+`OXG3\>Z)rb:`cSME1j(nRWXs1koXRZHJs5!%^6i0KWB8ZrQp@]2)f#:^)\f@maeGTGoA%TU'<eJ<!T!AoKrL@mKL>l_dD-E#>J2G5T&\tla4Z8AH/[cRj(BsCRF<(__7Ldb=C\qpo#UGWcB<MW`G[n1Age:3hUZp7-K"rmO(DZ\[7^BSM6Ss8T6!V/#UHC6&.\<(!rar6US1&4jg.]%/[[5-+b:F%btKl3mL=D7:k[\*3#'0JoJpUI][:nQid[bHH[Z:a7'/^e,,f=gT'VS2C>ZKrT&KSeq?_OIbV_<&oCO$mlYaZiB&:nBQQ<S"0WDpfiah_1<jqPEkHJJ?f[>rQ$@i(UC*&oA4B?mW,f>*NTfBj\;'o".F7J_l;Ci(kK?/FtkmHUj2^<UrMMQeSMnTuYLg-c>Rqj1EO`EbINn>e&_j7,H$ZQ%5-#Q.eN^C9)-.??87C7FTUg`l779edKAJWD$kc`83N$&6oApgb0?-!t[@oEQW$NBo`N(<FthfU=N[Hio<i.p4N/8a72/enrrifn23BJ\%"dZH1S4i#mnC)NZ!5.5u!7dC*3N)?0tJpaCA3I%[@Fc-H.Q4`7[$RU:[ehW,4]a%Q:=<H(M?S?(mc^Fs"bqm)TE/#`b[!U?%(X>U&M,L/'CLp*:A9N.L44W(Z&`#&r'=e2F\I'W!4\;I.SPR7h)@<%-pd.S.[il?n#DUA=F81jBmq=YuO'(t@*CSZ$Qi<lPo=4o?EdiDFtt'`8L`;_mE[I12G;2#<!^Ogmh(d#Ruh3oXn/bc)V1?>m'!d&!bqO(*h$-dT5jHIF^P*fg,jp#'pD9E8*OjT77N+sdUPl..ek(-imA,%np3>24);)l`O!YFYePGTJr(NWOO$i.lhhU\1[OWgu)^.le#PqAFGq+FrBD/$im:C/8#L!A0YBJa]SOk0,SZ(;6]q043X^A5Le]_PeJhn;!jU'4;BEglaDRN80^=*A)?SH(nXV%re6*@hTMJ/,\!g6SDP7/TRq]AduS[%EC$ZBuVl!!"U9c32*$/'A;[=.&P=kSaS?ull*=F(W3-H*d\h@4gSL%mAV7pDae6[4Cd8qICtQ>RBBp.eKU]`9V+qY?h!gSb_eabbfPb?\K*6j9n0f=Z[CL"-X(eBVT%.)?(5iG+1:QsfqZ0jq1m:#?I28f]O;T-SKp-$qJj7;a+HYs^@'%t`A!><DVSA'X7LHu*kK6KY5<4b+3&<VO5&VINpCRF*7P9bg-d1I4(!Y[XAO^*"s5jVhbH"0h9>=`S\KL5aSIP1Nk&GGo>rM70PDAL=s!)ubu1][4`;/+d@&>F\e\<%Pc(s=NJbfX$B_LU:/lT.#$PQqD,Rhj!oqb%%EL7G8hd5\+(dhol;HDZg01>WLMDZmNOjjJG.?Ti2VQ"!f_DM3jcHYaD3>24CYg+&'=J.c3`\3fM,q3;5qD:>5a<UX[$$9Fidu<U,dr*3Bp9R)Pmt,^DM9#u?Xq%iLcai@]79%KY0nT;pghEa#t(`]$um,N/GQs-Fkbj!_9Su]R>8A;qq!O<1mM0Z2-7(eMYmU@k0DSGA3r\(CJ/>S8)s@uFGTTVRB4fSbbaQ=d_$,V[$nK<Q-'8lK^+NXb%u-B@cEoRdGOsnH.ooZ6>4;OM6'O!.DW+:iB;.d]ON%'ha,,a1mrL</ZJPf61&o4V,R/qW8YTF#AMHGK=^3S:Mk:$<et(*30PP0-m)!QrGE52*$kIpYB_-WnoKYH8NVJDZ!9pU$9j@4>FXA`j*2H"Y%*U9UtGsJg_i?&YQ1dn*H*ROIqkap!?&2%BS&d?Q+H!./&6BBI]4T\eU557h]/!E-7q^C<c*cU8.[b=^hVQCI;3.Af_5cs]E'c@0.hhP_,kAg=I\C^`tP#)?LGM1'M8`W(l$B$Q-a5]2TqF6M>rrPXGue5D7SP(H&fO1E$JPdP()Nf0rb`ko)U`3kK(fTeNI.IR*lu\I4%B7<HZIcH<p++:?2@?jc]^1$&QBshJd)H71qWM-:Q%([cX1=<M/^s3Zf(,[\2qj(kLN,ai`)cT?Ck:g]~>endstream
+endobj
 xref
-0 13
+0 16
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000120 00000 n 
-0000000169 00000 n 
-0000000414 00000 n 
-0000006194 00000 n 
-0000006301 00000 n 
-0000006408 00000 n 
-0000006520 00000 n 
-0000006632 00000 n 
-0000006824 00000 n 
-0000010194 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000516 00000 n 
+0000000728 00000 n 
+0000000923 00000 n 
+0000001146 00000 n 
+0000001344 00000 n 
+0000001541 00000 n 
+0000001779 00000 n 
+0000001849 00000 n 
+0000002157 00000 n 
+0000002224 00000 n 
+0000004488 00000 n 
 trailer
 <<
-/Size 13
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<e6233f4ef718b899b4e87c516fd2965f><e6233f4ef718b899b4e87c516fd2965f>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 12 0 R
+/Root 11 0 R
+/Size 16
 >>
 startxref
-10236
+7479
 %%EOF
