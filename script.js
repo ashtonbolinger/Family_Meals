@@ -1,18 +1,18 @@
 const meals={
- "honey-garlic-chicken":{name:"Honey Garlic Chicken",ingredients:{
-  "Produce":["1 large head broccoli or 12 oz florets","6 cloves garlic"],"Meat":["1.5-2 lb boneless, skinless chicken breasts"],"Pantry":["Rice for serving","1/3 cup honey","1/3 cup low-sodium soy sauce","2 Tbsp apple cider vinegar"],"Check Pantry":["Worcestershire sauce","Sesame oil","Cornstarch"]}},
- "beef-noodles":{name:"Ally's Beef & Noodles",ingredients:{
-  "Produce":["1/2 cup diced onion or onion powder","8 oz mushrooms (optional)","Green beans or another green vegetable for serving"],"Meat":["1 lb beef stew meat"],"Pantry":["12 oz wide egg noodles","2 cups beef broth","1 can (10.5 oz) beef gravy (optional)"],"Check Pantry":["Olive oil","Minced garlic","Salt","Black pepper","Cornstarch"]}},
- "baked-spaghetti":{name:"Baked Spaghetti",ingredients:{
-  "Produce":["1 small yellow onion","2 cloves garlic","Salad or green beans for serving"],"Meat":["1 lb ground beef or mild Italian sausage"],"Dairy & Refrigerated":["8 oz cottage cheese or ricotta","1 large egg","2 cups shredded mozzarella","1/2 cup grated Parmesan"],"Pantry":["1 lb spaghetti","1 jar (24 oz) marinara sauce","1 can (15 oz) tomato sauce"],"Check Pantry":["Italian seasoning","Salt","Black pepper"]}},
- "blackstone-stir-fry":{name:"Blackstone Chicken Stir-Fry",ingredients:{
-  "Produce":["2 medium zucchini","1 red bell pepper","1 medium yellow onion","8 oz mushrooms (optional)","3 green onions","2 cloves garlic"],"Meat":["1.5 lb boneless, skinless chicken breasts or thighs"],"Dairy & Refrigerated":["4 large eggs","6 Tbsp unsalted butter"],"Frozen":["1.5 cups frozen peas and carrots"],"Pantry":["2 cups uncooked jasmine or long-grain rice","Teriyaki or Japanese barbecue sauce","Low-sodium soy sauce"],"Check Pantry":["Neutral high-heat oil","Oyster sauce (optional)","Toasted sesame oil","Salt","Black pepper","Sesame seeds (optional)"]}},
+ "salsa-verde-chicken":{name:"Instant Pot Salsa Verde Chicken",ingredients:{
+  "Produce":["1/4-1/2 cup fresh cilantro","2 avocados (for serving)","1 lime (for serving)"],"Meat":["2 lb boneless, skinless chicken breasts"],"Pantry":["1-1.5 cups salsa verde","Rice for serving"],"Check Pantry":["Smoked paprika","Salt"]}},
  "chicken-asparagus-pasta":{name:"Chicken Asparagus Pasta",ingredients:{
-  "Produce":["1/3 cup sliced green onion","1 cup sliced mushrooms","1 lb fresh asparagus","1 lemon"],"Meat":["3 boneless, skinless chicken breasts"],"Dairy & Refrigerated":["1/3 cup grated Parmesan"],"Pantry":["12 oz linguine","1 cup chicken broth"],"Check Pantry":["Salt","Cayenne pepper","Arrowroot starch or cornstarch","Olive oil"]}}
+  "Produce":["1/3 cup sliced green onion","1 cup sliced mushrooms","1 lb fresh asparagus","1 lemon"],"Meat":["3 boneless, skinless chicken breasts"],"Dairy & Refrigerated":["1/3 cup grated Parmesan"],"Pantry":["12 oz linguine","1 cup chicken broth"],"Check Pantry":["Salt","Cayenne pepper","Arrowroot starch or cornstarch","Olive oil"]}},
+ "pulled-pork":{name:"Instant Pot Pulled Pork",ingredients:{
+  "Produce":["1 bag prepared slaw or 1 head broccoli for serving"],"Meat":["3 lb boneless pork shoulder"],"Bread":["6 sandwich buns"],"Pantry":["1 cup chicken broth","1/2 cup barbecue sauce"],"Check Pantry":["Neutral oil","Worcestershire sauce","Brown sugar","Smoked paprika","Garlic powder","Onion powder","Kosher salt","Black pepper"]}},
+ "baked-feta-pasta":{name:"Baked Feta Pasta",ingredients:{
+  "Produce":["2 pints (20 oz) grape tomatoes","5 garlic cloves","8 oz fresh spinach","1/4 cup fresh basil","2 Tbsp fresh parsley"],"Dairy & Refrigerated":["1 block (7-8 oz) full-fat feta"],"Pantry":["10 oz medium dry pasta","1/2 cup extra-virgin olive oil"],"Check Pantry":["Salt","Black pepper","Crushed red pepper flakes"]}},
+ "pot-roast":{name:"Instant Pot Pot Roast",ingredients:{
+  "Produce":["1 lb baby red potatoes","4 large carrots","1 large yellow onion"],"Meat":["1 beef chuck roast (3-5 lb)"],"Pantry":["4 cups beef broth"],"Check Pantry":["Oil","Salt","Onion powder","Garlic powder","Black pepper","Smoked paprika (optional)","Worcestershire sauce","Cornstarch"]}}
 };
 
-const selectionKey="weekly-meal-selections-2026-10-05";
-const checkedKey="weekly-meal-groceries-2026-10-05";
+const selectionKey="weekly-meal-selections-2026-10-12";
+const checkedKey="weekly-meal-groceries-2026-10-12";
 let selected=new Set(JSON.parse(localStorage.getItem(selectionKey)||"[]").filter(id=>meals[id]));
 let checked=new Set(JSON.parse(localStorage.getItem(checkedKey)||"[]"));
 const root=document.getElementById("groceries");
